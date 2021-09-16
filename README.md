@@ -3,4 +3,4 @@
 
 App para realizar presupuestos semanal.
 
-- La app permite registrar gastos y muestrando el presupuesto y la cantidad restante.
+- La app permite registrar gastos y luego muestra el presupuesto y la cantidad restante.
